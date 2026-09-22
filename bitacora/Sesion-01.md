@@ -10,7 +10,9 @@ Construir la identidad del equipo (contrato de equipo), realizar la investigaci�
 
 ## Foto del equipo
 
-*(pendiente de insertar)*
+![Foto del equipo MediCita](./imagenes/S01/foto-equipo.jpg)
+
+*(⚠️ pendiente identificar a cada integrante en la foto)*
 
 ---
 

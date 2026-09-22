@@ -17,10 +17,8 @@
 | Isidora Franco | Ingeniería Civil Industrial | Investigación del proceso actual de agendamiento | — |
 | Benjamín Huechuqueo | Ingeniería Civil en Computación e Informática | Investigación de necesidades y dificultades de usuarios | — |
 | Martín Strauch | Ingeniería Civil Industrial | Análisis y propuesta de funcionalidades de MediCita | — |
-| Leonardo Torres | Ingeniería Civil Electrónica | ⚠️ *Por confirmar (ver nota sobre "Lautaro4")* | — |
+| Leonardo Torres | Ingeniería Civil Electrónica | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo | — |
 | Martín Fariña | Ingeniería Civil en Computación e Informática | Gestión y documentación del repositorio GitHub / bitácora | `martinfarina-ux` |
-
-> ⚠️ Pendiente de confirmar quién es "Lautaro4" en los compromisos SMART originales. Ver [`bitacora/Sesion-01.md`](./bitacora/Sesion-01.md) para el detalle.
 
 ## Valores del equipo
 
@@ -188,7 +186,7 @@ Preguntas a validar directamente con el CESFAM (próximo paso de investigación)
 | Isidora Franco | Recopilar y organizar información sobre el proceso actual de agendamiento y reagendamiento en los CESFAM de Providencia. |
 | Benjamín Huechuqueo | Investigar las principales necesidades y dificultades de los usuarios relacionadas con el agendamiento y reagendamiento de horas. |
 | Martín Strauch | Analizar y proponer las principales funcionalidades que debería tener MediCita. |
-| Leonardo Torres ⚠️ *(originalmente "Lautaro4" — confirmar)* | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo. |
+| Leonardo Torres | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo. |
 | Martín Fariña | Subir, estructurar y mantener actualizado el repositorio de GitHub del proyecto (bitácora y documentación). |
 
 ## 📓 Bitácora

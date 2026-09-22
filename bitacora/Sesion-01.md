@@ -45,7 +45,7 @@ Construir la identidad del equipo (contrato de equipo), realizar la investigaci�
 1. Cumplir con las tareas y plazos.
 2. Mantener una comunicación respetuosa.
 3. Avisar ante cualquier inconveniente.
-4. Participar y colaborar entre los 5. *(el documento original decía "los 4"; se corrige porque el equipo está compuesto por 5 integrantes — ⚠️ confirmar si corresponde a una versión previa del contrato)*
+4. Participar y colaborar entre los 5. *(el documento original decía "los 4": el contrato de equipo se redactó cuando el equipo tenía 4 integrantes, antes de que Martín Fariña se incorporara)*
 5. Resolver diferencias mediante el diálogo.
 
 ### Disponibilidad

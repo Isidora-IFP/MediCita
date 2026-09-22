@@ -12,7 +12,9 @@ Estructurar el problema en un canvas: a quién le ocurre, qué está ocurriendo,
 
 ## 📋 Canvas: Grupo 2-08 — MediCita
 
-*(imagen pendiente de subir)*
+![Canvas completo de la Sesión 2: Grupo 2-08 MediCita — integrantes, a quién le ocurre, qué está ocurriendo, por qué importa, qué sabemos, qué creemos y qué necesitamos averiguar](./imagenes/S02/canvas-completo.jpg)
+
+![Primer plano de la sección "¿Qué necesitan averiguar y aún no lo saben...?"](./imagenes/S02/que-necesitan-averiguar.jpg)
 
 ### ¿A quién le ocurre?
 
@@ -65,5 +67,4 @@ El afiche de esta sesión lista solo a 4 integrantes (Benjamín, Leonardo, Mart�
 ## ➡️ Próximos pasos
 
 - [ ] Confirmar el texto manuscrito sobre cómo se piden las citas ("web/Google").
-- [ ] Subir la imagen del canvas al repositorio.
 - [ ] Confirmar si Martín Fariña se unió al equipo después de esta sesión.

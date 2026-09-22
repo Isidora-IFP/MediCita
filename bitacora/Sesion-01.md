@@ -27,7 +27,7 @@ Construir la identidad del equipo (contrato de equipo), realizar la investigaci�
 | Isidora Franco | Ingeniería Civil Industrial | Investigación del proceso actual de agendamiento |
 | Benjamín Huechuqueo | Ingeniería Civil en Computación e Informática | Investigación de necesidades y dificultades de usuarios |
 | Martín Strauch | Ingeniería Civil Industrial | Análisis y propuesta de funcionalidades de MediCita |
-| Leonardo Torres | Ingeniería Civil Electrónica | ⚠️ *por confirmar (ver nota sobre "Lautaro4")* |
+| Leonardo Torres | Ingeniería Civil Electrónica | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo |
 | Martín Fariña | Ingeniería Civil en Computación e Informática | Gestión y documentación del repositorio GitHub / bitácora |
 
 ### Valores del equipo
@@ -208,7 +208,7 @@ Como equipo nos comprometemos a trabajar de manera responsable, flexible y colab
 | Isidora Franco | Recopilar y organizar información sobre el proceso actual de agendamiento y reagendamiento en los CESFAM de Providencia. |
 | Benjamín Huechuqueo | Investigar las principales necesidades y dificultades de los usuarios relacionadas con el agendamiento y reagendamiento de horas. |
 | Martín Strauch | Analizar y proponer las principales funcionalidades que debería tener MediCita. |
-| Leonardo Torres ⚠️ *(originalmente "Lautaro4" en el documento original — confirmar)* | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo. |
+| Leonardo Torres | Organizar la información recopilada y apoyar en la definición de la propuesta y estructura inicial del prototipo. |
 | Martín Fariña | Subir, estructurar y mantener actualizado el repositorio de GitHub del proyecto (bitácora y documentación). |
 
 ### Objetivo del proyecto
@@ -223,7 +223,6 @@ Como equipo nos comprometemos a trabajar de manera responsable, flexible y colab
 
 ## ➡️ Próximos pasos
 
-- [ ] Confirmar si "Lautaro4" del documento original corresponde a Leonardo Torres.
 - [ ] Completar disponibilidad de Martín Fariña.
 - [ ] Completar usuarios de GitHub del resto del equipo.
 - [ ] Validar con funcionarios del CESFAM Dr. Alfonso Leng las preguntas listadas en "Lo que todavía necesitamos investigar".

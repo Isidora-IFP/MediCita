@@ -10,7 +10,7 @@ Generar ideas de solución a partir de la pregunta "¿Cómo podríamos...?", a p
 
 ## 💡 Lluvia de ideas
 
-*(imagen pendiente de subir)*
+![Afiche "Grupo 2: ¿Cómo podríamos...?" con las ideas de solución del equipo](./imagenes/S04/ideacion-como-podriamos.jpg)
 
 Afiche "Grupo 2: ¿Cómo podríamos...?" con las siguientes ideas:
 
@@ -28,6 +28,5 @@ Varias de estas ideas responden directamente a las barreras identificadas desde 
 
 ## ➡️ Próximos pasos
 
-- [ ] Subir la imagen del afiche de ideación al repositorio.
 - [ ] Completar participantes y lugar/modalidad de la sesión.
 - [ ] Priorizar estas ideas y seleccionar cuáles se incorporan al prototipo de MediCita.

@@ -62,9 +62,8 @@ Estructurar el problema en un canvas: a quién le ocurre, qué está ocurriendo,
 
 ## 🗒️ Nota sobre integrantes
 
-El afiche de esta sesión lista solo a 4 integrantes (Benjamín, Leonardo, Martín Strauch e Isidora), igual que el contrato de equipo original de la Sesión 1 mencionaba "colaborar entre los 4". Esto sugiere que **Martín Fariña se incorporó al equipo después** de esta etapa inicial, encargándose principalmente de la gestión del repositorio GitHub. ⚠️ *A confirmar con el equipo.*
+El afiche de esta sesión lista solo a 4 integrantes (Benjamín, Leonardo, Martín Strauch e Isidora), igual que el contrato de equipo original de la Sesión 1 mencionaba "colaborar entre los 4". **Confirmado:** Martín Fariña se incorporó al equipo después de esta etapa inicial, encargándose principalmente de la gestión del repositorio GitHub.
 
 ## ➡️ Próximos pasos
 
 - [ ] Confirmar el texto manuscrito sobre cómo se piden las citas ("web/Google").
-- [ ] Confirmar si Martín Fariña se unió al equipo después de esta sesión.

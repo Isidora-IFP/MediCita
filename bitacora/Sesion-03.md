@@ -10,14 +10,18 @@ Realizar una primera visita a terreno para observar en el lugar cómo funciona e
 
 ## 🔎 Evidencia recogida
 
-*(imágenes pendientes de subir)*
+Fotografía del letrero institucional en la fachada del edificio visitado:
 
-- Fotografía del letrero institucional "Providencia, Vida Buena — Corporación Desarrollo Social — Educación y..." en la fachada del edificio visitado.
-- Fotografía de un integrante del equipo en el acceso del edificio, junto a un tablero de números de atención en espera:
-  - **Médico:** 47
-  - **Matrona:** 35
-  - **Dentista:** 29
-  - El tablero incluye además un aviso sobre horario perdido durante la semana anterior por retiros e inasistencias, y solicita avisar oportunamente si no se puede asistir a una cita. ⚠️ *(texto parcialmente ilegible en la foto, confirmar redacción exacta)*
+![Letrero "Providencia, Vida Buena — Corporación Desarrollo Social — Educación y..."](./imagenes/S03/letrero-providencia.jpg)
+
+Fotografía de un integrante del equipo en el acceso del edificio, junto a un tablero de números de atención en espera:
+
+![Integrante del equipo en la entrada del edificio, junto al tablero de números de espera: Médico 47, Matrona 35, Dentista 29](./imagenes/S03/tablero-espera.jpg)
+
+- **Médico:** 47
+- **Matrona:** 35
+- **Dentista:** 29
+- El tablero incluye además un aviso sobre horario perdido durante la semana anterior por retiros e inasistencias, y solicita avisar oportunamente si no se puede asistir a una cita. ⚠️ *(texto parcialmente ilegible en la foto, confirmar redacción exacta)*
 
 ## 💭 Lectura de la visita
 
@@ -26,6 +30,5 @@ El tablero de números en espera es evidencia directa de la carga de atención d
 ## ➡️ Próximos pasos
 
 - [ ] Completar participantes y horario exacto de la visita.
-- [ ] Subir las fotografías de la visita al repositorio.
 - [ ] Confirmar el texto completo del aviso sobre horario perdido en el tablero.
 - [ ] Si es posible, conversar con personal administrativo en una próxima visita para responder las preguntas pendientes de la Sesión 2.

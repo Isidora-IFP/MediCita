@@ -1,6 +1,6 @@
 # Sesión 1 — Contrato de equipo e investigación inicial
 
-📅 **Fecha:** ⚠️ *por confirmar*
+📅 **Fecha:** 25-08-2026
 **Participantes:** Isidora Franco, Benjamín Huechuqueo, Martín Strauch, Leonardo Torres, Martín Fariña
 **Lugar o modalidad:** ⚠️ *por confirmar*
 
@@ -181,9 +181,66 @@ Preguntas a validar directamente con el CESFAM (próximo paso de investigación)
 - ¿Qué pasa con el cupo que queda disponible?
 - ¿Cuál es la principal dificultad que identifican los funcionarios?
 
+### Desafío 08 — Salud pública (brief oficial del curso)
+
+**Curso:** Capstone Intermedio 2026 — Universidad Mayor
+**Contraparte:** Municipalidad de Providencia / CESFAM de Providencia
+
+![Ficha oficial del Desafío 08: Automatización del reagendamiento de citas médicas](./imagenes/S01/desafio-08-oficial.jpg)
+
+| Campo | Contenido |
+|---|---|
+| Pregunta orientadora | ¿Cómo podríamos disminuir las horas de trabajo dedicadas al reagendamiento de pacientes en los CESFAM de Providencia? |
+| Contexto y problema | Las cancelaciones, inasistencias y cambios de disponibilidad generan tareas de contacto y coordinación que actualmente demandan tiempo del personal administrativo. La oportunidad consiste en optimizar el proceso y automatizar total o parcialmente el reagendamiento, reduciendo trabajo manual. |
+| Usuarios / beneficiarios | Personal administrativo, pacientes, equipos clínicos y gestión de los CESFAM. |
+| Objetivo del desafío | Diseñar una solución que reduzca el tiempo destinado al reagendamiento y permita reasignar horas de manera más ágil, trazable y eficiente. |
+| Producto mínimo esperado | Mapa del proceso actual y cuantificación de sus principales cargas o cuellos de botella. Prototipo digital que demuestre un flujo automatizado o semiautomatizado de reagendamiento. Registro de eventos e indicadores de gestión en un tablero básico. |
+| Requerimientos mínimos | Levantar el sistema actual de reserva, cancelación y reagendamiento. Considerar disponibilidad del profesional tratante o reglas clínicas/operativas que la contraparte defina. Priorizar herramientas y software sin costo de licencias cuando sea posible. Diseñar el prototipo de manera desacoplada de sistemas clínicos reales si no existe autorización de integración. |
+| Criterios de éxito | El prototipo reduce pasos o tiempo manual respecto del proceso levantado. La lógica de reasignación es trazable y puede demostrarse con casos de prueba. El sistema genera indicadores útiles para monitorear el proceso. |
+
 ### Idea central
 
 > Providencia ya cuenta con canales digitales y telefónicos para solicitar horas médicas; nuestro desafío es mejorar lo que ocurre cuando esas horas necesitan ser modificadas, facilitando el reagendamiento para pacientes y funcionarios.
+
+### Mapa mental del problema
+
+Trabajo en clase del 25-08-2026, mapeando problemas, involucrados, desafíos, beneficios e impactos de MediCita:
+
+![Mapa mental de MediCita: problemas, involucrados, desafíos, beneficios e impactos](./imagenes/S01/mapa-mental-medicita.jpg)
+
+- **Problemas**
+  - Demora en agendación de citas médicas.
+  - Falta de automatización.
+- **Involucrados**
+  - Personal de CESFAM.
+  - Clientes (pacientes).
+  - Contexto: Providencia, Chile — CESFAM.
+  - Público en general.
+- **Desafíos**
+  - Automatizar el reagendamiento.
+  - Reducir tiempos de espera.
+  - Considerar disponibilidad y reglas de los profesionales.
+  - Proteger los datos de los pacientes.
+  - Definir la plataforma.
+- **Beneficios**
+  - Reducir tiempo.
+  - Mejorar la experiencia.
+  - Reducir las horas médicas perdidas.
+- **Impactos**
+  - Social: mejora el acceso de los pacientes a citas médicas.
+  - Operacional: hace más eficiente el trabajo del personal.
+  - Tecnológico: impulsa la digitalización y la automatización del proceso.
+
+### Impactos negativos a considerar
+
+Apunte del equipo sobre riesgos y efectos no deseados de automatizar el reagendamiento:
+
+![Apunte manuscrito: impactos negativos — resistencia al cambio, riesgo de privacidad, errores de asignación, necesidad de apoyo humano](./imagenes/S01/impactos-negativos.jpg)
+
+- Resistencia al cambio.
+- Riesgo de privacidad.
+- Errores de asignación.
+- Necesidad de apoyo humano.
 
 ---
 

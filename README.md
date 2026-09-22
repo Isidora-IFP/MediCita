@@ -156,6 +156,13 @@ La idea **no es reemplazar a los funcionarios**, sino automatizar las tareas rep
 | Funcionarios | Mayor disponibilidad de tiempo para otras tareas de gestión. |
 | Sistema | Una gestión de agendas más eficiente y ordenada. |
 
+## Riesgos / impactos negativos a mitigar
+
+- Resistencia al cambio.
+- Riesgo de privacidad.
+- Errores de asignación.
+- Necesidad de apoyo humano.
+
 ## Lo que todavía necesitamos investigar
 
 Preguntas a validar directamente con el CESFAM (próximo paso de investigación):
@@ -195,4 +202,7 @@ Todo el avance clase a clase se documenta en [`bitacora/`](./bitacora/README.md)
 
 | Sesión | Fecha | Foco |
 |---|---|---|
-| [Sesión 1](./bitacora/Sesion-01.md) | ⚠️ por confirmar | Contrato de equipo, investigación inicial y definición del problema |
+| [Sesión 1](./bitacora/Sesion-01.md) | 25-08-2026 | Contrato de equipo, investigación inicial y definición del problema |
+| [Sesión 2](./bitacora/Sesion-02.md) | 01-09-2026 | Canvas de definición del problema |
+| [Sesión 3](./bitacora/Sesion-03.md) | 05-09-2026 | Visita a terreno |
+| [Sesión 4](./bitacora/Sesion-04.md) | 08-09-2026 | Ideación "¿Cómo podríamos...?" |

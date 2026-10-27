@@ -36,7 +36,7 @@ Estructurar el problema en un canvas: a quién le ocurre, qué está ocurriendo,
 
 ### ¿Qué sabemos...?
 
-- Cómo piden la cita: vía presencial, web/Google ⚠️ *(texto manuscrito poco legible, confirmar)* y call center.
+- Cómo piden la cita: vía presencial, Telesalud *(reconstruido por contexto a partir del manuscrito poco legible; coincide con el canal online descrito en la Sesión 1)* y call center.
 - Qué sucede cuando se pierde la cita.
 - Que existen inasistencias de pacientes.
 - Que existen cancelaciones.

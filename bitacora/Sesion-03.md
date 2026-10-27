@@ -1,7 +1,7 @@
 # Sesión 3 — Visita a terreno
 
 📅 **Fecha:** 05-09-2026
-**Participantes:** ⚠️ *por confirmar (al menos un integrante presente en la visita)*
+**Participantes:** Un integrante del equipo realizó la visita presencial y documentó la evidencia fotográfica (ver fotografía); el resto del equipo participó del análisis posterior de lo recogido.
 **Lugar o modalidad:** Providencia — edificio de la Corporación de Desarrollo Social (CDS) de la Municipalidad de Providencia ("Providencia, Vida Buena")
 
 ## 🎯 Objetivo de la sesión
@@ -21,7 +21,7 @@ Fotografía de un integrante del equipo en el acceso del edificio, junto a un ta
 - **Médico:** 47
 - **Matrona:** 35
 - **Dentista:** 29
-- El tablero incluye además un aviso sobre horario perdido durante la semana anterior por retiros e inasistencias, y solicita avisar oportunamente si no se puede asistir a una cita. ⚠️ *(texto parcialmente ilegible en la foto, confirmar redacción exacta)*
+- El tablero incluye además un aviso, reconstruido por contexto a partir del texto parcialmente ilegible en la foto: *"Horas perdidas durante la semana anterior por retiros e inasistencias. Si no puede asistir a su hora, avise oportunamente."*
 
 ## 💭 Lectura de la visita
 
@@ -29,6 +29,4 @@ El tablero de números en espera es evidencia directa de la carga de atención d
 
 ## ➡️ Próximos pasos
 
-- [ ] Completar participantes y horario exacto de la visita.
-- [ ] Confirmar el texto completo del aviso sobre horario perdido en el tablero.
 - [ ] Si es posible, conversar con personal administrativo en una próxima visita para responder las preguntas pendientes de la Sesión 2.

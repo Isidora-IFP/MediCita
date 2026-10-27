@@ -2,7 +2,7 @@
 
 📅 **Fecha:** 08-09-2026
 **Participantes:** ⚠️ *por confirmar*
-**Lugar o modalidad:** ⚠️ *por confirmar*
+**Lugar o modalidad:** Presencial — Edificio MNSR, Sala 506
 
 ## 🎯 Objetivo de la sesión
 
@@ -28,5 +28,5 @@ Varias de estas ideas responden directamente a las barreras identificadas desde 
 
 ## ➡️ Próximos pasos
 
-- [ ] Completar participantes y lugar/modalidad de la sesión.
+- [ ] Completar participantes de la sesión.
 - [ ] Priorizar estas ideas y seleccionar cuáles se incorporan al prototipo de MediCita.

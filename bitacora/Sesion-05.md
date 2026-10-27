@@ -2,7 +2,7 @@
 
 📅 **Fecha:** 22-09-2026
 **Participantes:** Isidora Franco, Martín Fariña, Martín Strauch, Benjamín Huechuqueo, Leonardo Torres
-**Lugar o modalidad:** ⚠️ *por confirmar*
+**Lugar o modalidad:** Presencial — Edificio MNSR, Sala 506
 
 ## 🎯 Objetivo de la sesión
 
@@ -98,5 +98,4 @@ Paciente seleccionado
 
 ## ➡️ Próximos pasos
 
-- [ ] Completar lugar o modalidad de la sesión.
 - [ ] Construir el prototipo simulado descrito en "Próximo test": base de datos simulada (Google Sheets/Supabase) + bot de mensajería.

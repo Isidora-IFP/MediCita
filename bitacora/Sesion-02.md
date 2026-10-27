@@ -2,7 +2,7 @@
 
 📅 **Fecha:** 01-09-2026
 **Participantes:** Benjamín Huechuqueo, Leonardo Torres, Martín Strauch, Isidora Franco *(Martín Fariña se incorporó al equipo después de esta sesión — ver nota al final)*
-**Lugar o modalidad:** ⚠️ *por confirmar*
+**Lugar o modalidad:** Presencial — Edificio MNSR, Sala 506
 
 > ⚠️ Esta fecha coincide con el objetivo SMART de corto plazo definido en la Sesión 1: *"Al 1 de septiembre de 2026, completar la investigación inicial del proceso de reagendamiento y definir una propuesta de solución para MediCita."*
 

@@ -1,7 +1,7 @@
 # Sesión 2 — Definición del problema (canvas)
 
 📅 **Fecha:** 01-09-2026
-**Participantes:** Benjamín Huechuqueo, Leonardo Torres, Martín Strauch, Isidora Franco *(⚠️ el afiche de esta sesión no incluye a Martín Fariña entre los "Integrantes" — ver nota al final)*
+**Participantes:** Benjamín Huechuqueo, Leonardo Torres, Martín Strauch, Isidora Franco *(Martín Fariña se incorporó al equipo después de esta sesión — ver nota al final)*
 **Lugar o modalidad:** ⚠️ *por confirmar*
 
 > ⚠️ Esta fecha coincide con el objetivo SMART de corto plazo definido en la Sesión 1: *"Al 1 de septiembre de 2026, completar la investigación inicial del proceso de reagendamiento y definir una propuesta de solución para MediCita."*

@@ -289,8 +289,11 @@ Como equipo nos comprometemos a trabajar de manera responsable, flexible y colab
 
 ## 💭 Reflexión breve
 
-**¿Qué fue fácil?** ⚠️ *pendiente de completar*
+**¿Qué fue fácil?**
+Ponernos de acuerdo en el enfoque del problema fue rápido: apenas planteamos el caso del CESFAM, quedó claro para todos que el foco debía estar en el reagendamiento y no en el agendamiento inicial. También ayudó que el equipo tiene especialidades distintas (industrial, computación, electrónica), así que repartir los primeros roles de investigación salió casi natural, sin tener que negociar mucho.
 
-**¿Qué fue difícil o generó desacuerdo?** ⚠️ *pendiente de completar*
+**¿Qué fue difícil o generó desacuerdo?**
+Lo más complicado fue trabajar con tanta incertidumbre: no teníamos ningún dato oficial de Providencia sobre cuántas horas se pierden o cuánto demora un reagendamiento, así que buena parte de la investigación inicial se armó sobre supuestos que todavía hay que validar con el CESFAM. Eso generó algo de inseguridad a la hora de definir el problema sin haber pisado terreno todavía.
 
-**¿Qué necesitamos resolver en la próxima sesión?** ⚠️ *pendiente de completar*
+**¿Qué necesitamos resolver en la próxima sesión?**
+Ordenar cómo íbamos a levantar la información que nos faltaba (las preguntas que dejamos listadas para el CESFAM) y empezar a estructurar esas respuestas en un formato más visual, tipo canvas, para no seguir manejando todo en texto suelto.

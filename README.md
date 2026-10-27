@@ -206,3 +206,4 @@ Todo el avance clase a clase se documenta en [`bitacora/`](./bitacora/README.md)
 | [Sesión 2](./bitacora/Sesion-02.md) | 01-09-2026 | Canvas de definición del problema |
 | [Sesión 3](./bitacora/Sesion-03.md) | 05-09-2026 | Visita a terreno |
 | [Sesión 4](./bitacora/Sesion-04.md) | 08-09-2026 | Ideación "¿Cómo podríamos...?" |
+| [Sesión 5](./bitacora/Sesion-05.md) | 22-09-2026 | Diseño del prototipo (ficha técnica) |

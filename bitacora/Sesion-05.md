@@ -10,7 +10,7 @@ Diseñar el prototipo técnico de MediCita a partir de la ficha oficial del Desa
 
 ## 📋 Ficha completada — Desafío 08
 
-*(imagen pendiente de subir — ⚠️ ver nota sobre documento oficial del curso, igual que en la Sesión 1)*
+![Ficha oficial del Desafío 08 completada: propuesta en una frase, esquemático del prototipo, arquitectura mínima y preguntas para decidir](./imagenes/S05/ficha-desafio-08.jpg)
 
 **Equipo:** MEDICITA G2
 **Integrantes:** Isidora Franco, Martín Fariña, Martín Strauch, Benjamín Huechuqueo, Leonardo Torres
@@ -61,6 +61,8 @@ Paciente seleccionado
 
 ### 4. Preguntas para decidir + pistas técnicas (y nuestras respuestas)
 
+![Respuestas manuscritas del equipo a las preguntas clave del Ítem 4 y al Ítem 5](./imagenes/S05/respuestas-preguntas.jpg)
+
 **Pregunta 1 — ¿Qué evento inicia el reagendamiento: cancelación, ausencia del profesional, inasistencia u otro?**
 
 > Se inicia principalmente ante 2 eventos gatillantes:
@@ -96,6 +98,5 @@ Paciente seleccionado
 
 ## ➡️ Próximos pasos
 
-- [ ] Subir la/s imagen/es de esta sesión al repositorio.
 - [ ] Completar lugar o modalidad de la sesión.
 - [ ] Construir el prototipo simulado descrito en "Próximo test": base de datos simulada (Google Sheets/Supabase) + bot de mensajería.

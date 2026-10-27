@@ -2,7 +2,7 @@
 
 📅 **Fecha:** 25-08-2026
 **Participantes:** Isidora Franco, Benjamín Huechuqueo, Martín Strauch, Leonardo Torres, Martín Fariña
-**Lugar o modalidad:** ⚠️ *por confirmar*
+**Lugar o modalidad:** Presencial — Edificio MNSR, Sala 506
 
 ## 🎯 Objetivo de la sesión
 

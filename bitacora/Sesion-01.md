@@ -52,13 +52,13 @@ Construir la identidad del equipo (contrato de equipo), realizar la investigaci�
 
 Cada integrante indicó sus horarios disponibles para coordinar reuniones y distribuir tareas:
 
-- Isidora Franco: Lunes / Martes / Miércoles
-- Benjamín Huechuqueo: Martes / Miércoles / Jueves
-- Leonardo Torres: Lunes / Miércoles / Viernes
-- Martín Strauch: Martes / Miércoles / Jueves
-- Martín Fariña: ⚠️ *pendiente*
+- Isidora Franco: Martes (en clase) / Miércoles
+- Benjamín Huechuqueo: Martes (en clase) / Miércoles
+- Leonardo Torres: Martes (en clase) / Miércoles
+- Martín Strauch: Martes (en clase) / Miércoles
+- Martín Fariña: Martes (en clase) / Miércoles
 
-**Acuerdo:** nos adaptaremos a los horarios de cada integrante, manteniendo el compromiso y la participación de los 5.
+**Acuerdo:** el equipo coincide los martes en clase y los miércoles, que son los días que se usan para reunirse y avanzar en conjunto.
 
 ---
 
